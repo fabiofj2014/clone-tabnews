@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Nunca desista de lutar. Voce vai vencer</h1>
+    return <h1>Keunia, vamos dominar o Mundo!!! Go, go, go, Sister!!!!</h1>
 }
 
 export default Home;
